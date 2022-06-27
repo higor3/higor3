@@ -1,7 +1,7 @@
 # Sobre mim
-Olá, eu me chamo Higor Mateus;
-Atualmente estudo em CECMPS;
-Instagram @higor_mateus2
+- Olá, eu me chamo Higor Mateus;
+- Atualmente estudo em CECMPS;
+- Instagram @higor_mateus2
 
 <!--
 **higor3/higor3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
